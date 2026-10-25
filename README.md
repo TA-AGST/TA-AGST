@@ -18,7 +18,7 @@
 
 - **Gameplay systems** — health, inventory, quests, weapons, enemy AI, grenades, controllers.
 - **Input and UI** — the new Input System (keyboard, gamepad, touch), HUDs, minimaps, inventory and quest windows.
-- **Simulations** — water, light and optics, and 4D space, built from real physics and maths (work in progress).
+- **Simulations** — water, light and optics, built from real physics and maths (work in progress).
 - **Small complete games** — an endless runner and a tower defence game, both with a win/lose loop.
 
 ## 🧩 Projects
@@ -44,9 +44,10 @@
 
 ## 🔭 Currently building
 
+- **CHHAAYA** — a story-driven 3D horror puzzle-platformer with no dialogue (Unity 6, HDRP, PC): a boy and his shadow companion, who is flat in light and solid in darkness. All five chapters are scripted; the prototype is next.
+- **KODI MASTER** — a board game based on the traditional Indian race game Kodi (Ashta Chamma), with Classic and Master rule sets, local and vs-computer play, and player profiles. An online friends mode is planned.
 - **Water simulation** — glass, rain, waterfall and ocean with custom Gerstner-wave shaders, swimming and a day / night cycle.
 - **Ray optics lab** — a real-time ray tracer for mirrors, lenses and prisms: reflection, Snell's law, total internal reflection and dispersion.
-- **4D space** — a walkable four-dimensional world, with the maths checked by a test program before anything is drawn.
 
 ## 🛠️ Tools
 

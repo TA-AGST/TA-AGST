@@ -58,5 +58,3 @@
 <p align="center">
   <i>Looking for a Unity / game development internship. Feel free to open an issue on any of my repositories.</i>
 </p>
-
-<sub>Logic build mein AI ki help li gayi hai.</sub>
